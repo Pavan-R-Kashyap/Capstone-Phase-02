@@ -7,7 +7,7 @@ This repository contains ongoing work on malware protection using reverse engine
 
 ## Project Details
 
-This Capstone project focuses on malware protection through the application of reverse engineering techniques. The work is divided into two phases, with each phase addressing specific aspects of malware and protection mechanisms.
+This Capstone project focuses on malware protection through the application of reverse engineering techniques. The work is divided into two parts, with each part addressing specific aspects of malware and protection mechanisms.
 
 ### Phase 02 - Summary
 
@@ -24,7 +24,7 @@ This Capstone project focuses on malware protection through the application of r
 - Anti-reverse engineering techniques
 - Protection schemes like anti-viruses and sandboxes
 
-These PowerPoint presentations, "Phase 02 Review 1" and "Phase 02 Review 3," provide summaries of the work completed in the respective phases. The final dissertation will be uploaded once it's been completed.
+These PowerPoint presentations, "Phase 02 Review 1" and "Phase 02 Review 3," provide summaries of the work completed in the respective parts. The final dissertation will be uploaded once it's been completed.
 
 
 ### DISCLAIMER!!
@@ -36,8 +36,8 @@ The repository owners and contributors are not responsible for any misuse or ill
 
 ### Authors
 
-1. [Pavan R Kashyap](#)
-2. [Phaneesh R Katti](#)
-3.[Hrishikesh Bhat P](#)
-4.[Pranav K Hegde](#)
+1. Pavan R Kashyap
+2. Phaneesh R Katti
+3. Hrishikesh Bhat P
+4. Pranav K Hegde
 
