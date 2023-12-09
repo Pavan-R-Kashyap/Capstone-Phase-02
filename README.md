@@ -36,7 +36,7 @@ It highlights some additional malware topics that have not been previously cover
 The dissertation concludes with the malware environment setup and analysis of RedLine Stealer, a real-world information stealer malware.
 
 ### DISCLAIMER!!
-Malware samples will be uploaded into this repository once all comprehesive malware analysis reports are ready. 
+Malware samples will be uploaded into this repository once all the comprehesive malware analysis reports are ready. 
 The analysis and documentation of malware samples in this repository are strictly for educational and research purposes. The intention behind this project is to enhance understanding of malware workings and promote proactive defense strategies. The use of malware samples for any malicious or unauthorized activities is strictly prohibited. 
 
 The repository owners and contributors are not responsible for any misuse or illegal actions conducted with the information provided. Users are advised to exercise caution, adhere to ethical guidelines, and comply with applicable laws and regulations while accessing or utilizing the contents of this repository.
