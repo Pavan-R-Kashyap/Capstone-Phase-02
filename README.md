@@ -24,23 +24,15 @@ This repository contains work done in the second phase of this project titled "M
 
 #### Phase 02 Review 1 and 2
 These documents are slide-show presentations of some of the topics presented to the panel during our intermediate reviews. They provide greater detail into concepts and the work carried out. 
+- **Phase 02 Review 01**
+    The topics covered in this presentation include Advanced C2, Advanced Persistence, Basic working of fileless malware, DLL Hijacking Techniques and Process Hooking Techniques.
+  
+- **Phase 02 Review 02**
+     The topics covered in this presentation include Polymorphic and Metamorphic malware, Evasion Techniques, Anti-reverse engineering techniques and Protection schemes.
 
- - **Phase 02 Review 01**
-    The topics covered in this presentation are as follows
-      -- Advanced Command and Control (C2)
-      -- Advanced Persistence ( Task schedulers, WMI Queries and Windows Services )
-      -- Basic working of fileless malware
-      -- DLL Hijacking Techniques
-      -- Process Hooking Techniques
-   
-   -**Phase 02 Review 02**
-     The topics covered in this presentation are as follows
-      -- Polymorphic and Metamorphic malware
-      -- Evasion Techniques
-      -- Anti-reverse engineering techniques
-      -- Protection schemes like anti-viruses and sandboxes
+#### Capstone Poster
+This poster succinctly highlights the framework we have devised during our Capstone journey, which empowers individuals with the knowledge and tools necessary to comprehend, detect, and effectively counteract malware threats.
 
-   
 #### Final Phase 02 dissertation
 The final dissertation summarizes all the work done in Phase 02 of the Capstone project. It covers the list of topics highlighted previously. 
 
