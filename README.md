@@ -9,7 +9,6 @@ This repository contains work done in the second phase of this project titled "M
 
 - Advanced Command and Control (C2)
 - Advanced Persistence ( Task schedulers, WMI Queries and Windows Services )
-- Fileless malware
 - DLL Hijacking Techniques
 - Process Hooking Techniques 
 - Polymorphic and Metamorphic malware
@@ -17,13 +16,31 @@ This repository contains work done in the second phase of this project titled "M
 - Anti-reverse engineering techniques
 - Protection schemes like anti-viruses and sandboxes
 - Macros
-- Fileless Malware and Double Pulsar emulation
+- Advanced Fileless Malware and Double Pulsar emulation
 - PowerShell as an attack and defense vector
 - Malware environment setup
 - Analysis of RedLine stealer, a real-world information stealer malware
 - Summary of the research papers published
 
+#### Phase 02 Review 1 and 2
+These documents are slide-show presentations of some of the topics presented to the panel during our intermediate reviews. They provide greater detail into concepts and the work carried out. 
 
+ - **Phase 02 Review 01**
+    The topics covered in this presentation are as follows
+      -- Advanced Command and Control (C2)
+      -- Advanced Persistence ( Task schedulers, WMI Queries and Windows Services )
+      -- Basic working of fileless malware
+      -- DLL Hijacking Techniques
+      -- Process Hooking Techniques
+   
+   -**Phase 02 Review 02**
+     The topics covered in this presentation are as follows
+      -- Polymorphic and Metamorphic malware
+      -- Evasion Techniques
+      -- Anti-reverse engineering techniques
+      -- Protection schemes like anti-viruses and sandboxes
+
+   
 #### Final Phase 02 dissertation
 The final dissertation summarizes all the work done in Phase 02 of the Capstone project. It covers the list of topics highlighted previously. 
 
